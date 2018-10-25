@@ -6,4 +6,4 @@ This is supposed to find you a path from one "room" to another "room" by going t
 Input will be like this:
 X Y            <=== X = number of rooms, Y = number of doors
 W Z            <=== W = starting room, Z = room we want to end in
-# #           <==== Then Y number of lines with numbers from 1<X.
+* *           <==== Then Y number of lines with numbers from 1<X.
